@@ -1,3 +1,11 @@
+<img width="831" alt="Image" src="https://github.com/user-attachments/assets/8be9740e-7135-4ba7-a374-a4c3cc53e55b" />
+
+<img width="831" alt="Image" src="https://github.com/user-attachments/assets/c5edf059-7c3c-4e00-8695-49369b6ba9c6" />
+
+<img width="753" alt="Image" src="https://github.com/user-attachments/assets/eed25593-b980-4f65-8d5d-7019a780cc74" />
+
+<img width="753" alt="Image" src="https://github.com/user-attachments/assets/cc815d60-c942-43a5-9b4c-c8ed4bd6940f" />
+
 
 Multimodal Reasoning AI Agent
 
